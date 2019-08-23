@@ -1,0 +1,36 @@
+{
+  "pages": [
+    
+    "pages/index/index",
+    "pages/tanchuang/tanchuang",
+    "pages/ditu/ditu",
+    "pages/tanchuang_huadong/index",
+    "pages/dianji_yuanse/logs",
+    "pages/input_tiqvneirong_if/input_tiqvneirong_if",
+    "pages/jishiqi_qingchu/index",
+    "pages/switch/switch",
+    "pages/dianji_qiehuanimg/index",
+    "pages/Audio/Audio",
+    "pages/chat/chat",
+    "pages/chat1/chat1",
+    "pages/donghua/donghua",
+    "pages/changan/changan",
+    "pages/luyin/luyin",
+    "pages/timeline/index",
+    "pages/scrolltop/index/index",
+    "pages/tianjia_shangchu/tianjia_shangchu",
+    "pages/huadong_navzhiding/inde"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示" 
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}
